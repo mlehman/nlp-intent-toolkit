@@ -1,4 +1,4 @@
 nlp-intent-toolkit
 ==================
 
-Intent recognition with OpenNLP
+Recognizing intents with slots using OpenNLP.
