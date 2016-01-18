@@ -3,7 +3,7 @@ nlp-intent-toolkit
 
 Recognizing intents with slots using OpenNLP.
 
-This is an example of using OpenNLP to train a system to accept natural language input, particularly via a speech-to-text source, and return a recognized action with arguments. The training system uses a directory containing separate files for each possible action, in this case the actions in a fictitious weather application:
+This is an example of using OpenNLP to train a system to accept natural language input, particularly via a speech-to-text source, and return a recognized action with arguments. The system uses [document categorization](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.doccat) to determine the action for inputs and [entity recognition](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.namefind) to determing the arguments. The training system requires a directory containing separate files for each possible action, in this case the actions in a fictitious weather application:
 
 ```
 - example/weather/train
@@ -25,6 +25,8 @@ show me the forecast for <START:city> Denver <END>
 ```
 
 ## Running the Example
+
+The training systems is run passing in the training file directory and any parameter name used in the training files.
 
 ```
 $ mvn clean compile exec:java  -Dexec.args="example/weather/train city"
