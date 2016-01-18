@@ -68,10 +68,12 @@ public class IntentTrainer {
             nameFinderMEs[i] = new NameFinderME(tokenNameFinderModels.get(i));
         }
 
+        System.out.println("Training complete. Ready.");
+        System.out.print(">");
         String s;
         while((s = System.console().readLine()) != null){
             double[] outcome = categorizer.categorize(s);
-            System.out.print(categorizer.getBestCategory(outcome) + " ");
+            System.out.print("action=" + categorizer.getBestCategory(outcome) + " args={ ");
 
             String[] tokens = WhitespaceTokenizer.INSTANCE.tokenize(s);
             for (NameFinderME nameFinderME : nameFinderMEs) {
@@ -81,7 +83,8 @@ public class IntentTrainer {
                     System.out.print(spans[i].getType() + "=" + names[i] + " ");
                 }
             }
-            System.out.println();
+            System.out.println("}");
+            System.out.print(">");
 
         }
     }
