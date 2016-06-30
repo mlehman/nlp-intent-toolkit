@@ -1,0 +1,21 @@
+will it rain tomorrow
+how dos the weather look for Thursday
+is is going to snow this week
+show me the forecast
+what's the five day forecast
+will it rain this week
+how does this week look in <START:city> Los Angelos <END>
+how does it look for Monday
+will it rain on Friday
+is it going to be hot Wednesday
+how does the rest of the week look
+will it rain tomorrow in <START:city> Munich <END>
+how dos the weather look for this Thursday in <START:city> Boston <END>
+is is going to snow this week in  <START:city> Chicago <END>
+show me the forecast for <START:city> Denver <END>
+show me the weather for <START:city> Salt Lake City <END> this Tuesday
+what's the five day forecast for <START:city> Detroit <END>
+how does it look for this Monday in <START:city> New York <END>
+will it rain in <START:city> Denver <END> on Friday
+is it going to be hot in <START:city> Boston <END> this Wednesday
+how <START:city> New York <END> look the rest of the week look

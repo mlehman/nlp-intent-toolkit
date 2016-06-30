@@ -1,0 +1,23 @@
+how does tonight look
+is it going to rain this afternoon
+is it going to snow in <START:city> Detroit <END>
+does it look like rain
+does it look lie snow
+is it windy
+it is sunny
+will it rain tonight
+how cold will it be this afternoon
+will it be cloudy
+is it going to be hot tonight
+will it rain this morning
+will it rain
+will is snow
+is it going to get warmer today
+how does tonight look in <START:city> boston <END>
+is it going to rain this afternoon in <START:city> chicago <END>
+will it rain this morning <START:city> miami <END>
+is it going to get warmer today <START:city> houston <END>
+how does tonight look in <START:city> austin <END>
+is it going to rain this afternoon in <START:city> san francisco <END>
+will it rain this morning <START:city> Seattle <END>
+is it going to get warmer today <START:city> Portland <END>
