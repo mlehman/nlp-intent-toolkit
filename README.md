@@ -1,4 +1,4 @@
-nlp-intent-toolkit
+nlp-intent-toolkit - Webserver version
 ==================
 
 Recognizing intents with slots using OpenNLP.
@@ -24,30 +24,25 @@ show me the forecast for <START:city> Denver <END>
 
 ```
 
-## Running the Example
 
-The training systems is run passing in the training file directory and any parameter name used in the training files.
+## Start the node server
+
+The webserver is node based and listen to the port 3000
 
 ```
-$ mvn clean compile exec:java  -Dexec.args="example/weather/train city"
-...
-Training complete. Ready.
+$ mkdir node-server
+$ npm install
+$ node index.js
+```
 
->show me the weather for chicago
-action=current-weather args={ city=chicago }
+## Request exemple
 
->will it rain tonight
-action=hourly-forecast args={ }
+Query
+```
+$ curl --data "enquiry=how does this weekend look in boston" -X POST http://localhost:3000
+```
 
->how does it look in seattle
-action=hourly-forecast args={ }
-
->what are the conditions in new york
-action=current-weather args={ city=new york }
-
->how does this weekend look in boston
-action=five-day-forecast args={ city=boston }
-
->give me the five day forecast
-action=five-day-forecast args={ }
+Response
+```
+{status: true, data: {action:five-day-forecast },args:{city:Boston }}
 ```
