@@ -31,6 +31,7 @@
     "gulp-jscs": "^4.0.0",
     "gulp-jshint": "^2.0.1",
     "jshint": "^2.9.2",
-    "jshint-stylish": "^2.2.0"
+    "jshint-stylish": "^2.2.0",
+    "snyk": "^1.16.0"
   }
 }

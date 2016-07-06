@@ -9,6 +9,7 @@ cache:
 before_script:
     - git clone git://github.com/SQweb-team/SQweb-Coding-Style.git ~/build/SQweb-team/SQweb-Coding-Style
     - cd node-server && npm install
+    - cp ~/build/SQweb-team/SQweb-Coding-Style/js/* ./
 
 script:
     - gulp
@@ -17,3 +18,4 @@ script:
 notifications:
     slack: nwork:BWqDT14LXxvuXtM8HydmDSD7
     email: false
+
