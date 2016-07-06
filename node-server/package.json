@@ -1,0 +1,37 @@
+{
+  "name": "node-serber-nlp-intent-toolkit",
+  "version": "1.0.0",
+  "description": "nlp-intent-toolkit ==================",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "snyk test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlehman/nlp-intent-toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlehman/nlp-intent-toolkit/issues"
+  },
+  "homepage": "https://github.com/mlehman/nlp-intent-toolkit#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-preset-es2015": "^6.9.0",
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "snyk": "^1.16.0"
+  }
+}

@@ -1,5 +1,7 @@
-nlp-intent-toolkit
+nlp-intent-toolkit - Webserver version
 ==================
+
+[![Build Status](https://travis-ci.org/Net-and-Work/nlp-intent-toolkit.svg?branch=master)](https://travis-ci.org/Net-and-Work/nlp-intent-toolkit)
 
 Recognizing intents with slots using OpenNLP.
 
@@ -17,37 +19,32 @@ Each training file contains one example per line with any possible arguments sur
 ```
 file: five-day-forecast.txt
 ...
-how dos the weather look for this Thursday in <START:city> Boston <END>
+how does the weather look for this Thursday in <START:city> Boston <END>
 is it going to snow this week in <START:city> Chicago <END>
 show me the forecast for <START:city> Denver <END>
 ...
 
 ```
 
-## Running the Example
 
-The training systems is run passing in the training file directory and any parameter name used in the training files.
+## Starting the node server
 
+The webserver is node based and listens to port 3000.
+
+```bash
+$ mkdir node-server
+$ npm install
+$ node index.js
 ```
-$ mvn clean compile exec:java  -Dexec.args="example/weather/train city"
-...
-Training complete. Ready.
 
->show me the weather for chicago
-action=current-weather args={ city=chicago }
+## Request exemple
 
->will it rain tonight
-action=hourly-forecast args={ }
+Query
+```bash
+$ curl --data "enquiry=how does this weekend look in boston" -X POST http://localhost:3000
+```
 
->how does it look in seattle
-action=hourly-forecast args={ }
-
->what are the conditions in new york
-action=current-weather args={ city=new york }
-
->how does this weekend look in boston
-action=five-day-forecast args={ city=boston }
-
->give me the five day forecast
-action=five-day-forecast args={ }
+Response
+```json
+{status: true, data: {action:five-day-forecast }, args: {city:Boston }}
 ```

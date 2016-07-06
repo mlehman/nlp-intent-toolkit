@@ -1,0 +1,562 @@
+J'aimerais avoir le numéro de téléphone de <START:societe> Hôtel Faubourg 216 224 <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Pompes Funebres Pincede <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Cabrera Daniel <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Alphee <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> La Depeche Voyages Wagonlit Tourisme <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Hôtel La Buissonnière <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Sully Hôtel (Sté) <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> France Quick <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Sgiarovello Robert <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> La Daurade <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Cuisines Schmidt Rbsa Distributeur Exclusi <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Kako <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Arc En Pierre Heydorff Wagner <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Institut de Beaute Rive Gauche <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Sournies Ghyslaine <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Hotel Fourcade <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Ecole Primaire Rene Cassin <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Belmudez Jean et Palau Joseph <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Caisse d'Epargne Provence Alpes Corses <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Oxygene <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Carsat Sud-Est <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Restaurant Le Terminus <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Hôtel Première Classe Andrézieux-Bouthéon <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Camping Caravaning Crin Blanc <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Garage Volvo <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Réunica <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Chaussures Gagnoud <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Auto Casion <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Ferrals Football Club Corbieres <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Editions du Breil <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Maironne Bernard <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Idee <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Accueil Info Drogue Onze <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Thermes de Rennes Les Bains <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Pasta et Dolce Finance <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Arnes Genevieve <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Oum el Banine <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Guiraud Pierre <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> AFER (Délégué Régional) <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> La Piscine <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Locbat <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Camping de la plage <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Fleury Apparthotel <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Timorau de la Prunarede Aline Medecin <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Sanchez Juan <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Sabatte Jacques <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Cafe Minervois <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Hôtel QUALYS-HOTEL La Tour Intendance <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Calmes Anne-marie <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Fun Sports Cycles <END>
+J'aimerais avoir le numéro de téléphone de <START:societe> Piquemal Helene <END>
+Il me faut le numéro de <START:societe> Gautrand Service Terrassement <END>
+Il me faut le numéro de <START:societe> Jacques briant <END>
+Il me faut le numéro de <START:societe> Moda Vilona <END>
+Il me faut le numéro de <START:societe> Camping du Relais <END>
+Il me faut le numéro de <START:societe> Grand Bazar Boutiques <END>
+Il me faut le numéro de <START:societe> Le Crimée <END>
+Il me faut le numéro de <START:societe> Alvado Vicente <END>
+Il me faut le numéro de <START:societe> groupon <END>
+Il me faut le numéro de <START:societe> Hôtel Txutxu-Mutxu <END>
+Il me faut le numéro de <START:societe> Mairie de Peyrefitte Sur l'hers <END>
+Il me faut le numéro de <START:societe> Helpbatteries <END>
+Il me faut le numéro de <START:societe> Pole Emploi ANPE Assedic <END>
+Il me faut le numéro de <START:societe> Financia Consulting <END>
+Il me faut le numéro de <START:societe> Suite Novotel Nancy Centre <END>
+Il me faut le numéro de <START:societe> Les Cèdres Bleus <END>
+Il me faut le numéro de <START:societe> Camping Auberge les Voisins <END>
+Il me faut le numéro de <START:societe> Brm <END>
+Il me faut le numéro de <START:societe> Hôtel Ours Blanc Centre <END>
+Il me faut le numéro de <START:societe> Sm Entreprise <END>
+Il me faut le numéro de <START:societe> La Kahina <END>
+Il me faut le numéro de <START:societe> Tennis Club Saint Papoulais <END>
+Il me faut le numéro de <START:societe> Allianz (Points Services) <END>
+Il me faut le numéro de <START:societe> Diaz Olivier <END>
+Il me faut le numéro de <START:societe> Hôtel Le Pigonnet <END>
+Il me faut le numéro de <START:societe> Hôtel Le Mistral <END>
+Il me faut le numéro de <START:societe> Juve Richard <END>
+Il me faut le numéro de <START:societe> Cordonnier-chausseur <END>
+Il me faut le numéro de <START:societe> Loubat Josiane <END>
+Il me faut le numéro de <START:societe> Eni <END>
+Il me faut le numéro de <START:societe> Courcieres <END>
+Il me faut le numéro de <START:societe> Plautin Edgard <END>
+Il me faut le numéro de <START:societe> Camping Municipal le Lac <END>
+Il me faut le numéro de <START:societe> Cabinet de Kinesitherapie Gonzalez Frank E <END>
+Il me faut le numéro de <START:societe> Fauche Thierry Menuisier <END>
+Il me faut le numéro de <START:societe> teva boutique <END>
+Il me faut le numéro de <START:societe> nouveau logis meridional <END>
+Il me faut le numéro de <START:societe> Veolia habitat services <END>
+Il me faut le numéro de <START:societe> Us Cuxac <END>
+Il me faut le numéro de <START:societe> Union Departementale Des Associations Fami <END>
+Il me faut le numéro de <START:societe> Cuberes Francois <END>
+Il me faut le numéro de <START:societe> Raynaud Manolita <END>
+Il me faut le numéro de <START:societe> Section Unafam Aude <END>
+Il me faut le numéro de <START:societe> CPAM Haute Garonne <END>
+Il me faut le numéro de <START:societe> Best Hôtel Marc Hôtel (EURL) Commerce indépendant <END>
+Il me faut le numéro de <START:societe> Promologis Montauban <END>
+Il me faut le numéro de <START:societe> Powwownow <END>
+Il me faut le numéro de <START:societe> Bucci Daniel <END>
+Il me faut le numéro de <START:societe> Mairie de Taurize <END>
+Il me faut le numéro de <START:societe> Mairie de Ribaute <END>
+Il me faut le numéro de <START:societe> Broqua Jean-pierre Medecin <END>
+Il me faut le numéro de <START:societe> Cicas  Paris Est <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Association France Alzheimer Aude <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Hôtel Univers <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Langlade Veronique Dentiste <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Mg International <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Martinez Jean <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Musee de la Chapellerie <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Hotel Saint Jacques <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Camping du Verdon <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Wizzdeals <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Société Gastronomique de l'Etoile <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Chez Le Gavot <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Auriffeuille Gilles Medecin <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Roques Martine <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Hôtel Richaud <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Cambonie Veronique <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Restaurant Les Oliviers <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Groupement Sportif et Culturel <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Intuition <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Intrum Justitia <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Lovemat <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Controle Technique Auto du Minervois <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Hôtel Acropole <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Pradal Jean Huissier Justic <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Centre Commercial Leclerc Tplm <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Assur Bon Plan <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Association Des Familles et Des Consommate <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Inter Hôtel Les Costières Adhérent <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Disco Mobile City Night <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Hamadene Mohamed <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Mogador Santé <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Madura <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> ccsh <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Bertazon Philippe <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Cousinie Jean-pierre <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Hôtel Le Stanislas <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Best Western Hôtel d'Anjou Adhérent <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Centre de Formation d'Apprentis Interprofe <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Itie Jean <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Playstation France <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Carrosserie la Rocade <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Ludotheque de Couiza <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Compagnie Electrique Des Pyrenees <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> mutuelle aero <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Languedoc Informatique <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Parizot Patrice Kine <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Domene Patrick Repar Pianos <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Marion Jouets <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Fasthotel <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Centre Radiologie Des Docteurs Boutel Anne <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Les Hautes Coutures <END>
+Il me faudrait le nu,éro de téléphone de <START:societe> Gayda-medrano Marie-christine Dermatologue <END>
+Je voudrais le contact téléphonique de <START:societe> Centre Regional Propriete Forestiere <END>
+Je voudrais le contact téléphonique de <START:societe> Hôtel de la Tamise <END>
+Je voudrais le contact téléphonique de <START:societe> Boscariol Maryse <END>
+Je voudrais le contact téléphonique de <START:societe> Remidi Michel <END>
+Je voudrais le contact téléphonique de <START:societe> Regals du Père Denis <END>
+Je voudrais le contact téléphonique de <START:societe> Ifi Bb1 <END>
+Je voudrais le contact téléphonique de <START:societe> lyonnaise des eaux france <END>
+Je voudrais le contact téléphonique de <START:societe> Société Narbonnaise Pour la Protection Des <END>
+Je voudrais le contact téléphonique de <START:societe> Hôtel Mercure Besançon Parc Micaud <END>
+Je voudrais le contact téléphonique de <START:societe> Meca Technic <END>
+Je voudrais le contact téléphonique de <START:societe> Société Gastronomique de l'Etoile <END>
+Je voudrais le contact téléphonique de <START:societe> Brasserie Le Baltard <END>
+Je voudrais le contact téléphonique de <START:societe> Générale Automobile <END>
+Je voudrais le contact téléphonique de <START:societe> Cabine France Telecom <END>
+Je voudrais le contact téléphonique de <START:societe> Verdoux Gerard <END>
+Je voudrais le contact téléphonique de <START:societe> Dubost Helene <END>
+Je voudrais le contact téléphonique de <START:societe> cathaypacific <END>
+Je voudrais le contact téléphonique de <START:societe> Da-re Robert <END>
+Je voudrais le contact téléphonique de <START:societe> Rey Philippe <END>
+Je voudrais le contact téléphonique de <START:societe> Cep Pac <END>
+Je voudrais le contact téléphonique de <START:societe> Camping Mare e Machja <END>
+Je voudrais le contact téléphonique de <START:societe> Maigne Michel Notaire <END>
+Je voudrais le contact téléphonique de <START:societe> Osset Maurice <END>
+Je voudrais le contact téléphonique de <START:societe> Armurerie de la Gare du Nord <END>
+Je voudrais le contact téléphonique de <START:societe> Boucherie Charcuterie Fraisse <END>
+Je voudrais le contact téléphonique de <START:societe> Forest Jacques Architecte <END>
+Je voudrais le contact téléphonique de <START:societe> Commissariat de Police <END>
+Je voudrais le contact téléphonique de <START:societe> CAMPING DE LA LAUNE <END>
+Je voudrais le contact téléphonique de <START:societe> Association Entraide Deficients de l'Aude <END>
+Je voudrais le contact téléphonique de <START:societe> Sanmarty Olivier <END>
+Je voudrais le contact téléphonique de <START:societe> Europe 2 <END>
+Je voudrais le contact téléphonique de <START:societe> Castorama <END>
+Je voudrais le contact téléphonique de <START:societe> Le Goff Emmanuelle Dentiste <END>
+Je voudrais le contact téléphonique de <START:societe> Micouleau Frederic <END>
+Je voudrais le contact téléphonique de <START:societe> Moa <END>
+Je voudrais le contact téléphonique de <START:societe> Philippe B Coiffure <END>
+Je voudrais le contact téléphonique de <START:societe> Marina (SARL) <END>
+Je voudrais le contact téléphonique de <START:societe> Steidel Peter <END>
+Je voudrais le contact téléphonique de <START:societe> Tourisme Vigneron Corbieres Mediterranee <END>
+Je voudrais le contact téléphonique de <START:societe> Sarda Robert <END>
+Je voudrais le contact téléphonique de <START:societe> Lacour Jean-louis <END>
+Je voudrais le contact téléphonique de <START:societe> Bijoux In <END>
+Je voudrais le contact téléphonique de <START:societe> Peyre Michel <END>
+Je voudrais le contact téléphonique de <START:societe> Kebbab Leïla <END>
+Je voudrais le contact téléphonique de <START:societe> LA VILLA ANDREA <END>
+Je voudrais le contact téléphonique de <START:societe> Imerys <END>
+Je voudrais le contact téléphonique de <START:societe> Hôtel Paris Barcelone <END>
+Je voudrais le contact téléphonique de <START:societe> Le Kaliste <END>
+Je voudrais le contact téléphonique de <START:societe> Société Hotelière Nancy <END>
+Je voudrais le contact téléphonique de <START:societe> Garage du Trébon <END>
+Je voudrais le contact téléphonique de <START:societe> DUPOND PATRICIA <END>
+Je veux contacter <START:societe> Dr Arrighi Maurel Elisabeth <END>
+Je veux contacter <START:societe> Les Nouveaux Bijoutiers <END>
+Je veux contacter <START:societe> Cepal Caisse d'Epargne d'Auvergne et du Limousin <END>
+Je veux contacter <START:societe> Hôtel Ibis Limoges Centre <END>
+Je veux contacter <START:societe> Lafont Alexis <END>
+Je veux contacter <START:societe> Jolibois Isabelle <END>
+Je veux contacter <START:societe> Chibab Mohamed <END>
+Je veux contacter <START:societe> Europ Coiffure <END>
+Je veux contacter <START:societe> Renaud et Fils <END>
+Je veux contacter <START:societe> Cabinet Marc et Francoise Prat Chirurg Den <END>
+Je veux contacter <START:societe> Camping Caravaning Isulottu <END>
+Je veux contacter <START:societe> Rugby Us Quillan Haute Vallee <END>
+Je veux contacter <START:societe> Bonnafous Denis <END>
+Je veux contacter <START:societe> Ferreres Didier <END>
+Je veux contacter <START:societe> Madrennes Jean <END>
+Je veux contacter <START:societe> Gleizes Jean-pierre <END>
+Je veux contacter <START:societe> Ecoles Maternelles Publiques <END>
+Je veux contacter <START:societe> Mistral Graphic <END>
+Je veux contacter <START:societe> Margerit Jacques <END>
+Je veux contacter <START:societe> Demeco Cmd Adherent <END>
+Je veux contacter <START:societe> Les Forges de Caumont <END>
+Je veux contacter <START:societe> LexisNexis <END>
+Je veux contacter <START:societe> Pujol Catherine <END>
+Je veux contacter <START:societe> Perez Patrick <END>
+Je veux contacter <START:societe> Mairie d'Ouveillan <END>
+Je veux contacter <START:societe> Europ Import Pds <END>
+Je veux contacter <START:societe> Société Languedocienne de Revision et Expe <END>
+Je veux contacter <START:societe> Batiment Assistance Service <END>
+Je veux contacter <START:societe> Chateau de Villerambert Julien <END>
+Je veux contacter <START:societe> Presse du Sillon <END>
+Je veux contacter <START:societe> Vaissiere Georges et Fils <END>
+Je veux contacter <START:societe> Rodrigues Manuel <END>
+Je veux contacter <START:societe> SPB <END>
+Je veux contacter <START:societe> Baba S Club <END>
+Je veux contacter <START:societe> Le Roc Ouest <END>
+Je veux contacter <START:societe> Shaktiware <END>
+Je veux contacter <START:societe> SwissLife Bouaziz Cyril Agent général <END>
+Je veux contacter <START:societe> Doutre Bernard <END>
+Je veux contacter <START:societe> Formation Labadie <END>
+Je veux contacter <START:societe> The Loft <END>
+Je veux contacter <START:societe> Le Lotus d'Or <END>
+Je veux contacter <START:societe> Voyage Chic <END>
+Je veux contacter <START:societe> Camping De La Pépinière <END>
+Je veux contacter <START:societe> Chez Francis <END>
+Je veux contacter <START:societe> Gls France <END>
+Je veux contacter <START:societe> Hôtel Villa Glamour <END>
+Je veux contacter <START:societe> Domas <END>
+Je veux contacter <START:societe> Galanti Francois <END>
+Je veux contacter <START:societe> Caravaca Alphonse <END>
+Je veux contacter <START:societe> Ethiad Airways <END>
+Je veux contacter <START:societe> Groupe Medical Des Docteurs Mazieres Audie <END>
+Il faut que je contacte <START:societe> Initianet <END>
+Il faut que je contacte <START:societe> Hotel de France <END>
+Il faut que je contacte <START:societe> Thifou Bernard <END>
+Il faut que je contacte <START:societe> Emonet Herve <END>
+Il faut que je contacte <START:societe> yahoo <END>
+Il faut que je contacte <START:societe> Le Petit Vatel <END>
+Il faut que je contacte <START:societe> Hôtel Ariane <END>
+Il faut que je contacte <START:societe> Chris Coif Ages <END>
+Il faut que je contacte <START:societe> Mairie de Lezignan Corbieres <END>
+Il faut que je contacte <START:societe> LG <END>
+Il faut que je contacte <START:societe> Waterfield Tracey <END>
+Il faut que je contacte <START:societe> Suderie Philippe Notaire <END>
+Il faut que je contacte <START:societe> Ribes Distribution <END>
+Il faut que je contacte <START:societe> Fleury Immobilier <END>
+Il faut que je contacte <START:societe> Forme Loisirs Culture <END>
+Il faut que je contacte <START:societe> Coux Jean-paul <END>
+Il faut que je contacte <START:societe> B And B Hotel <END>
+Il faut que je contacte <START:societe> Amnesty International <END>
+Il faut que je contacte <START:societe> Campanile Dijon Congrès Clemenceau <END>
+Il faut que je contacte <START:societe> wolsvagen <END>
+Il faut que je contacte <START:societe> Bellissen Jean-luc <END>
+Il faut que je contacte <START:societe> Clos de Chaponost <END>
+Il faut que je contacte <START:societe> Leclerc voyage <END>
+Il faut que je contacte <START:societe> EFFIA <END>
+Il faut que je contacte <START:societe> Barriere Patricia <END>
+Il faut que je contacte <START:societe> pharmashopdiscount <END>
+Il faut que je contacte <START:societe> Controle Auto Fargues <END>
+Il faut que je contacte <START:societe> Ball Trap Club Limouxin <END>
+Il faut que je contacte <START:societe> Dubois Maxime Medecin <END>
+Il faut que je contacte <START:societe> Camping le cormier <END>
+Il faut que je contacte <START:societe> Hôtel Gril Campanile <END>
+Il faut que je contacte <START:societe> Pizzeria Toda L'Akel <END>
+Il faut que je contacte <START:societe> La France Assurances <END>
+Il faut que je contacte <START:societe> Comboutique <END>
+Il faut que je contacte <START:societe> Hotel Parisien <END>
+Il faut que je contacte <START:societe> Dubarry Laurent <END>
+Il faut que je contacte <START:societe> Guilhot <END>
+Il faut que je contacte <START:societe> Scea Auzines <END>
+Il faut que je contacte <START:societe> Cuvellier Daniel <END>
+Il faut que je contacte <START:societe> B&amp;YOU <END>
+Il faut que je contacte <START:societe> Musee de la Chapellerie <END>
+Il faut que je contacte <START:societe> GROUPAMA Lyon Croix Rousse <END>
+Il faut que je contacte <START:societe> Lanchier et Fils <END>
+Il faut que je contacte <START:societe> Comite Departemental Olympique Sportif Aud <END>
+Il faut que je contacte <START:societe> Punky Ent Nettoyage <END>
+Il faut que je contacte <START:societe> Mairie de Sigean <END>
+Il faut que je contacte <START:societe> Prouvost Nicolas <END>
+Il faut que je contacte <START:societe> Beguier Eric <END>
+Il faut que je contacte <START:societe> Restaurant Le Petit Couvert <END>
+Il faut que je contacte <START:societe> Hôtel Américain <END>
+Il faut que je contacte <START:societe> Château du Parc Ducup <END>
+Donnes moi le numéro de téléphone de <START:societe> Molina Jacques <END>
+Donnes moi le numéro de téléphone de <START:societe> Mairie de Fabrezan <END>
+Donnes moi le numéro de téléphone de <START:societe> Château de la Motte Fénelon <END>
+Donnes moi le numéro de téléphone de <START:societe> Pharmacie Hibert-rey <END>
+Donnes moi le numéro de téléphone de <START:societe> clinique des Emailleurs 87 <END>
+Donnes moi le numéro de téléphone de <START:societe> N Diaye Guibril <END>
+Donnes moi le numéro de téléphone de <START:societe> Multi-location <END>
+Donnes moi le numéro de téléphone de <START:societe> EGEDIS Carburant <END>
+Donnes moi le numéro de téléphone de <START:societe> Suderie Philippe <END>
+Donnes moi le numéro de téléphone de <START:societe> Gaillard Marcel <END>
+Donnes moi le numéro de téléphone de <START:societe> Point Annie Marionnettiste <END>
+Donnes moi le numéro de téléphone de <START:societe> Ouhadj Saïd <END>
+Donnes moi le numéro de téléphone de <START:societe> Rigaud Benedicte <END>
+Donnes moi le numéro de téléphone de <START:societe> Domaine d'Enriou <END>
+Donnes moi le numéro de téléphone de <START:societe> Centre Medical Des Docteurs Molveau Pebern <END>
+Donnes moi le numéro de téléphone de <START:societe> Fonds-montmaur Jacques <END>
+Donnes moi le numéro de téléphone de <START:societe> Mercure Lyon Beaux Arts <END>
+Donnes moi le numéro de téléphone de <START:societe> Deshormieres Alain <END>
+Donnes moi le numéro de téléphone de <START:societe> Hotel Restaurant la Pierre Lys <END>
+Donnes moi le numéro de téléphone de <START:societe> Lagarde-bousquet Guy Rey <END>
+Donnes moi le numéro de téléphone de <START:societe> Auberge de Saint Thibault <END>
+Donnes moi le numéro de téléphone de <START:societe> Anim 2000 <END>
+Donnes moi le numéro de téléphone de <START:societe> Masquefa Robert <END>
+Donnes moi le numéro de téléphone de <START:societe> Cheveux Cathares <END>
+Donnes moi le numéro de téléphone de <START:societe> Banque Populaire Des Pyrenees Orientales D <END>
+Donnes moi le numéro de téléphone de <START:societe> Auberge de Kéralloret <END>
+Donnes moi le numéro de téléphone de <START:societe> MGEN Filia <END>
+Donnes moi le numéro de téléphone de <START:societe> Chambre de Commerce et d'Industrie de Narb <END>
+Donnes moi le numéro de téléphone de <START:societe> Chaussures Empreinte <END>
+Donnes moi le numéro de téléphone de <START:societe> Saurel et Fils <END>
+Donnes moi le numéro de téléphone de <START:societe> Cave Cooperative de Vinification la Langue <END>
+Donnes moi le numéro de téléphone de <START:societe> Vidal Franck Boulangerie <END>
+Donnes moi le numéro de téléphone de <START:societe> Delacroix-huc <END>
+Donnes moi le numéro de téléphone de <START:societe> Yamaha Hp Motos Concess Exclusif <END>
+Donnes moi le numéro de téléphone de <START:societe> Eglise Evangelique de Pentecote <END>
+Donnes moi le numéro de téléphone de <START:societe> Avis Location de Voitures Languedoc Locati <END>
+Donnes moi le numéro de téléphone de <START:societe> C S P Spieser <END>
+Donnes moi le numéro de téléphone de <START:societe> Halte Garderie <END>
+Donnes moi le numéro de téléphone de <START:societe> Mairie de Coustaussa <END>
+Donnes moi le numéro de téléphone de <START:societe> Fiducial Expertise <END>
+Donnes moi le numéro de téléphone de <START:societe> Limoux Pieusse Football Club <END>
+Donnes moi le numéro de téléphone de <START:societe> La Kahina <END>
+Donnes moi le numéro de téléphone de <START:societe> Gastou Jean <END>
+Donnes moi le numéro de téléphone de <START:societe> Hôtel Résidence Zénitude Les Hauts Du Chazal <END>
+Donnes moi le numéro de téléphone de <START:societe> Hôtel Restaurant Les Gens De Mer <END>
+Donnes moi le numéro de téléphone de <START:societe> Gibson Christopher Chambres d'Hotes <END>
+Donnes moi le numéro de téléphone de <START:societe> Roubichou Jean- Claude <END>
+Donnes moi le numéro de téléphone de <START:societe> Nature Loisirs En Hautes Corbieres <END>
+Donnes moi le numéro de téléphone de <START:societe> Video Plus <END>
+Donnes moi le numéro de téléphone de <START:societe> Anamorphose <END>
+Donnes moi le numéro de téléphone de <START:societe> Lansac Colette <END>
+Je cherche le numéro de telephone de <START:societe> Sogerep Courtage <END>
+Je cherche le numéro de telephone de <START:societe> Bijouterie du Palais <END>
+Je cherche le numéro de telephone de <START:societe> Vidal Pierre <END>
+Je cherche le numéro de telephone de <START:societe> Mondial Relay Reims <END>
+Je cherche le numéro de telephone de <START:societe> ABITAT DEPANNAGE FRANçAIS <END>
+Je cherche le numéro de telephone de <START:societe> Of Settler S Bay <END>
+Je cherche le numéro de telephone de <START:societe> SFE <END>
+Je cherche le numéro de telephone de <START:societe> Ociane <END>
+Je cherche le numéro de telephone de <START:societe> Piazetta <END>
+Je cherche le numéro de telephone de <START:societe> Agence AOA Centre Ouest <END>
+Je cherche le numéro de telephone de <START:societe> Matt <END>
+Je cherche le numéro de telephone de <START:societe> La Coquille <END>
+Je cherche le numéro de telephone de <START:societe> Pharmateam <END>
+Je cherche le numéro de telephone de <START:societe> Syndicat du Pavillon Club <END>
+Je cherche le numéro de telephone de <START:societe> Coiffure Britt <END>
+Je cherche le numéro de telephone de <START:societe> Dalati Mazen <END>
+Je cherche le numéro de telephone de <START:societe> SFA Allo Sanyrapid Réparation entretien <END>
+Je cherche le numéro de telephone de <START:societe> Pizel Michele <END>
+Je cherche le numéro de telephone de <START:societe> Union Des Celliers Jean d'Alibert <END>
+Je cherche le numéro de telephone de <START:societe> Hydrogeo Sphere <END>
+Je cherche le numéro de telephone de <START:societe> Mairie de Gourvieille <END>
+Je cherche le numéro de telephone de <START:societe> Richard Elisabeth Medecin <END>
+Je cherche le numéro de telephone de <START:societe> Bernard Steiner <END>
+Je cherche le numéro de telephone de <START:societe> Galzi Paulette <END>
+Je cherche le numéro de telephone de <START:societe> Tribunal d'Instance <END>
+Je cherche le numéro de telephone de <START:societe> Atlantic Pierre Michaud Installateur <END>
+Je cherche le numéro de telephone de <START:societe> Waills Michel Medecin <END>
+Je cherche le numéro de telephone de <START:societe> Achourane Madjid <END>
+Je cherche le numéro de telephone de <START:societe> Darty Limoges <END>
+Je cherche le numéro de telephone de <START:societe> Paysages d'Oc <END>
+Je cherche le numéro de telephone de <START:societe> Rolland Pierre Vin Appellation <END>
+Je cherche le numéro de telephone de <START:societe> filiassur <END>
+Je cherche le numéro de telephone de <START:societe> Mercure Le Havre Bassin du Commerce <END>
+Je cherche le numéro de telephone de <START:societe> Auto Ecole Belleville <END>
+Je cherche le numéro de telephone de <START:societe> Vivancos et Cie <END>
+Je cherche le numéro de telephone de <START:societe> Aux Plaisirs Des Yeux <END>
+Je cherche le numéro de telephone de <START:societe> Thierry Souquet Conseil <END>
+Je cherche le numéro de telephone de <START:societe> Mairie de Mas Stes Puelles <END>
+Je cherche le numéro de telephone de <START:societe> Ab-fishing <END>
+Je cherche le numéro de telephone de <START:societe> Bonnafous Philippe <END>
+Je cherche le numéro de telephone de <START:societe> Mairie de Montmaur <END>
+Je cherche le numéro de telephone de <START:societe> Campion Pierre-jean <END>
+Je cherche le numéro de telephone de <START:societe> Camping le Rivage <END>
+Je cherche le numéro de telephone de <START:societe> Michelin <END>
+Je cherche le numéro de telephone de <START:societe> Pano Boutique <END>
+Je cherche le numéro de telephone de <START:societe> Escande Jean <END>
+Je cherche le numéro de telephone de <START:societe> Mairie de Campagne Sur Aude <END>
+Je cherche le numéro de telephone de <START:societe> Casino Le Phoebus <END>
+Je cherche le numéro de telephone de <START:societe> Pizzeria Oceane <END>
+Je cherche le numéro de telephone de <START:societe> Arenales Marie- Francoise <END>
+Je cherche le numéro de telephone de <START:societe> Marty Andre <END>
+Je recherche le numéro de telephone de <START:societe> Association Departementale Des Gardes-chas <END>
+Je recherche le numéro de telephone de <START:societe> Eden <END>
+Je recherche le numéro de telephone de <START:societe> Spie Trindel <END>
+Je recherche le numéro de telephone de <START:societe> Alba Immobilier <END>
+Je recherche le numéro de telephone de <START:societe> Camping les quatre Arpents <END>
+Je recherche le numéro de telephone de <START:societe> Gaubert Daniel Boulanger-patis <END>
+Je recherche le numéro de telephone de <START:societe> Mairie de Soupex <END>
+Je recherche le numéro de telephone de <START:societe> Mantelsom <END>
+Je recherche le numéro de telephone de <START:societe> Centre national du Chèque emploi service universel <END>
+Je recherche le numéro de telephone de <START:societe> Charpente <END>
+Je recherche le numéro de telephone de <START:societe> Imprimerie Counil <END>
+Je recherche le numéro de telephone de <START:societe> Eyzies Clos du Rocher <END>
+Je recherche le numéro de telephone de <START:societe> Pollet Daniel <END>
+Je recherche le numéro de telephone de <START:societe> Cave Cooperative de Narbonne <END>
+Je recherche le numéro de telephone de <START:societe> Sm Entreprise <END>
+Je recherche le numéro de telephone de <START:societe> Mitsubitshi electrique <END>
+Je recherche le numéro de telephone de <START:societe> RMC <END>
+Je recherche le numéro de telephone de <START:societe> atral systeme diagral <END>
+Je recherche le numéro de telephone de <START:societe> Multi Batteries <END>
+Je recherche le numéro de telephone de <START:societe> Hotel Balladins Lysdor Hugotel Nord <END>
+Je recherche le numéro de telephone de <START:societe> OKTEY <END>
+Je recherche le numéro de telephone de <START:societe> Proxiserve (veolia) <END>
+Je recherche le numéro de telephone de <START:societe> Aquifuse <END>
+Je recherche le numéro de telephone de <START:societe> Orchestre Musette Henri Ben <END>
+Je recherche le numéro de telephone de <START:societe> Verychic <END>
+Je recherche le numéro de telephone de <START:societe> Canalplus <END>
+Je recherche le numéro de telephone de <START:societe> Hôtel Première Classe Université <END>
+Je recherche le numéro de telephone de <START:societe> Mutuelle Intégrance <END>
+Je recherche le numéro de telephone de <START:societe> Best Western France Europe <END>
+Je recherche le numéro de telephone de <START:societe> Sica Cite <END>
+Je recherche le numéro de telephone de <START:societe> Gibert Roland <END>
+Je recherche le numéro de telephone de <START:societe> Hôtel Le Lido <END>
+Je recherche le numéro de telephone de <START:societe> Dariscon Marie-aude Notaire <END>
+Je recherche le numéro de telephone de <START:societe> Cefisem <END>
+Je recherche le numéro de telephone de <START:societe> Rivemale Pierre <END>
+Je recherche le numéro de telephone de <START:societe> Pharmacie Bargues <END>
+Je recherche le numéro de telephone de <START:societe> Télé Mathis <END>
+Je recherche le numéro de telephone de <START:societe> Raufaste-verderi Daniele <END>
+Je recherche le numéro de telephone de <START:societe> Hoang Thi Nhan <END>
+Je recherche le numéro de telephone de <START:societe> Centre Regional Propriete Forestiere <END>
+Je recherche le numéro de telephone de <START:societe> Arthozoul Jean- Claude <END>
+Je recherche le numéro de telephone de <START:societe> Foucault Jean-marc Medecin <END>
+Je recherche le numéro de telephone de <START:societe> assurposte <END>
+Je recherche le numéro de telephone de <START:societe> Lamache Pascal <END>
+Je recherche le numéro de telephone de <START:societe> Groupama Paris Val de Loire <END>
+Je recherche le numéro de telephone de <START:societe> Gastou Jean <END>
+Je recherche le numéro de telephone de <START:societe> Ticket concert <END>
+Je recherche le numéro de telephone de <START:societe> T 2a <END>
+Je recherche le numéro de telephone de <START:societe> Ambulances de la Clamoux <END>
+Je recherche le numéro de telephone de <START:societe> Mme Delva Mirlene <END>
+Je recherche le numéro de telephone de <START:societe> Art Floral <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Gecodis habitat et jardin <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Camping le Clos de Montamer <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Taix Albert <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Cabon Laurence <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Parraud Philippe <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Formica <END>
+Tu peux me donner le numéro de téléphone de <START:societe> L'hôtel Particulier <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Orosquette Claude <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Tallavigne Jean- Antoine <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Confotel Colombes <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Bowling du Languedoc <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Independant Voyages Wagon-lit <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Video Plus <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Camping Municipal de Fontan <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Camping le Bellevue <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Dore Stephane <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Samblanet John-david <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Manivet Bernadette <END>
+Tu peux me donner le numéro de téléphone de <START:societe> ibis <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Mairie de Villetritouls <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Bacou Jean-pierre <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Camping Le Puits Rochais <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Cuvellier Daniel <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Armengol Christian <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Hôtel Morphée Adhérent <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Dem 2000 <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Mipi El <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Agence Aulis Immobilier <END>
+Tu peux me donner le numéro de téléphone de <START:societe> l'Arche <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Deveze Rachel <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Anton Cesar <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Sabliere Larruy <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Ambulance Iche <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Belda Daniel Ligne Archi <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Canal+ <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Appart'Hôtel Le Champ de Mars <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Abeille Assistance <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Mutuelle de la Société Marseillaise de Cre <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Ufc Que Choisir <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Hôtel Villa l'Arche <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Bijouterie Miro <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Family Dko <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Publiplast <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Mairie de Quintillan <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Courrieu Gerard <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Sawas-bouichet Francoise <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Le Foudre <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Ibis budget Lyon la Part Dieu <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Association Syndicale du Canal d'Arrosage <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Paul Rene <END>
+Tu peux me donner le numéro de téléphone de <START:societe> Votre Beaute <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Vencell Micheline <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Escourrou Martine <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Barclays <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Alton Inter-Hôtel <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Famille Services <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Habitat Multi-services <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Hôtel Atmosphères <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Ducatillon <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Hôtel La Maison de Sophie <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Republik Hôtel (SARL) <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> La Patache <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Aux Berges de Sambre <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Best Western Hôtel du Vieux Marché Entreprise indépendante <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Gallego Robert <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Sansoz-cua Gerard <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Eklo Hotels <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Restaurant la Selette <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Docteur Michel Sauvage <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Hôtel de l'Abbaye des Premontrés <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Theraulaz <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Albert Marie- Christine <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Mairie de Gueytes et Labastide <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Meertz Michael <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Viver et Fils <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Fringant Philippe <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Electro Diesel Quillanais <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Premiere Classe Roissy <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Association Paul Sibra et la Vie Verte <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Le Jardin <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Cabinet de Soins Infirmieres Agnel Brigitt <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Courtieu Andre <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Synthese <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Logis Hôtel de la Corniche Adhérent <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> California Us <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> L'hôtel Particulier <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Centre Equestre <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> 25 Degrés Est <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Tennis Club de Belpech <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Krys Fgrenier-boley Adherent <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Guide du Routard <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Garcia Laurent <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Camping de la Paoute <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Chateau Capendu <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Torres Michel <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Treutenaere Herve <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Camping Pitrera <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Antioche d'Oléron <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Bassonville Raoul <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Martin Thomas <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Beton Chantier <END>
+Vous pouvez me donner le numéro de téléphone de <START:societe> Labatut Julien <END>
+J'aimerais avoir le numéro de téléphone de  <START:societe>Atz<END>
