@@ -21,6 +21,7 @@
   "homepage": "https://github.com/mlehman/nlp-intent-toolkit#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
+    "colors": "^1.1.2",
     "express": "^4.14.0",
     "mongoose": "^4.5.2"
   }

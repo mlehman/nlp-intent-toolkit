@@ -1,9 +1,11 @@
 var express = require('express');
 var bodyParser = require('body-parser');
+var request = require('request');
+var colors = require('colors');
 var fs = require('fs');
 var app = express();
-var path = "/Users/bastienbotella/web_docs/NLP/nlp-intent-toolkit/fds/";
-var logPath = "/Users/bastienbotella/web_docs/NLP/nlp-intent-toolkit/node-server/log/";
+var path = "/Users/agent05/nlp-intent-toolkit/fds/";
+var logPath = "/Users/agent05/nlp-intent-toolkit/node-server/log/";
 
 var today = function() {
     var today = new Date();
@@ -11,6 +13,13 @@ var today = function() {
     var mm = today.getMonth()+1; //January is 0!
     var yyyy = today.getFullYear();
     return mm + '-' + dd + '-' + yyyy;
+}
+
+var datetime = function() {
+    var datetime = new Date().toISOString().
+        replace(/T/, ' ').      // replace T with a space
+        replace(/\..+/, '')
+    return datetime;
 }
 
 
@@ -43,9 +52,11 @@ app.post('/', function(req, res) {
         return res.send("{status: false, error: Missing text field.}");
     } else {
         console.log(req.body.enquiry);
+        var source = req.body.enquiry.replace("'", " ");
+        console.log(source.red);
     }
     var reqHash = Math.random().toString(36).substring(12);
-    writeFile(reqHash, req.body.enquiry);
+    writeFile(reqHash, source);
     var interval = setInterval(function() {
         if (accessSpeFile(reqHash) === true) {
             try {
@@ -61,14 +72,15 @@ app.post('/', function(req, res) {
                     console.log(e);
                 }
                 console.log(data.toString());
-                fs.writeFile(logPath + today(), fileLog.toString
-                () + "{in: '" + req.body.enquiry + "', out: " + data.toString() + "},",
-                function(err) {
-                    if(err) {
-                        return console.log(err);
-                    }
-                    console.log("Log saved!");
+                request.post('http://localhost:1234/log', {
+                  form: {
+                    data: data
+                  }
+                }, function(err, res) {
+                  console.log(err, res);
                 });
+                console.log(data);
+                logger(source, fileLog.toString());
                 res.send("{status: true, data: " + data + "}");
                 clearInterval(interval);
             } catch(e) {
@@ -79,6 +91,29 @@ app.post('/', function(req, res) {
     // res.send('Req done');
 });
 
-app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+app.post('/result', function(req, res) {
+    if (!req.body.result || req.body.result == "") {
+        return res.send("{status: false, error: Missing result field.}");
+    } else {
+        console.log(req.body.result);
+    }
+    // res.send('Req done');
 });
+
+app.listen(3000, function () {
+  console.log('Example app listening on port 3000!'.green);
+});
+
+function logger(input, fileLog, data) {
+    var callback = function(err) {
+            if(err) {
+                return console.log(err);
+            }
+            console.log("Log saved!");
+        };
+    // if (response.toString().localeCompare('')) {
+        fs.writeFile(logPath + today(),  fileLog + "[FAIL] [" + datetime() + "]" + input + "\n", callback());
+    // } else {
+        fs.writeFile(logPath + today(), fileLog + "[SUCCESS] [" + datetime() + "] " + input + " <-> "  + "\n", callback());
+    // }
+}
