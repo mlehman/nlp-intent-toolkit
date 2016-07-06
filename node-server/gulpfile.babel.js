@@ -5,10 +5,15 @@ import jscs from 'gulp-jscs';
 import jshint from 'gulp-jshint';
 
 gulp.task('jscs', function() {
-	return gulp.src(['./public/js/src/refac-script.js', './public/js/src/iframe.js'])
-		.pipe(jscs())
-		.pipe(jscs.reporter());
+  return gulp.src(['./index.js'])
+    .pipe(jscs())
+    .pipe(jscs.reporter());
+});
+
+gulp.task('jshint', function() {
+  return gulp.src('./index.js')
+    .pipe(jshint('.jshintrc'))
+    .pipe(jshint.reporter('jshint-stylish'));
 });
 
 gulp.task('default', ['jscs']);
-
