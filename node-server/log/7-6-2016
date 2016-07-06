@@ -36,3 +36,26 @@
 [SUCCESS] [2016-07-06 11:46:56] Je voudrais le de orange <-> [object Object]
 [SUCCESS] [2016-07-06 11:47:36] Je voudrais le de orange <-> [object Object]
 [FAIL] [2016-07-06 11:48:03] sdfghjklkhgyrdtfgjkg
+[FAIL] [2016-07-06 12:01:51] asdfghjklqwertyuio
+[SUCCESS] [2016-07-06 12:02:03] Je voudrais le de orange <-> [object Object]
+[SUCCESS] [2016-07-06 12:11:36] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:11:39] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[FAIL] [2016-07-06 12:11:51] qwertyuioiytsafjkj
+[SUCCESS] [2016-07-06 12:15:48] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:19:05] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:20:35] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:20:46] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:26:01] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:26:57] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:29:18] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:29:36] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:30:48] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:31:01] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:33:10] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:33:27] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:33:59] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:34:12] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:34:52] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:35:09] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:39:29] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:42:32] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}

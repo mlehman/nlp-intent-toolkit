@@ -74,15 +74,18 @@ app.post('/', function(req, res) {
                 if (JSON.parse(data).find == false) {
                     res.send("{status: false, data: 'Je ne comprend pas.' }");
                 } else {
+                    var returnSentence;
                     console.log(data.toString());
                     request.post('http://localhost:1234/log', {
                       form: {
                         data: data
                       }
-                    }, function(err, res) {
-                      console.log(err, res);
+                    }, function(err, resultBO) {
+                      // console.log(err, res);
+                      console.log(JSON.parse(resultBO.body).data);
+                      returnSentence = JSON.parse(resultBO.body).data;
+                      res.send("{status: true, data: \"" + returnSentence + "\"}");
                     });
-                    res.send("{status: true, data: " + data + "}");
                 }
                 logger(source, fileLog.toString(), JSON.parse(data.toString()));
                 clearInterval(interval);
@@ -115,8 +118,8 @@ function logger(input, fileLog, data) {
             console.log("Log saved!");
         };
     if (typeof data.intent != 'undefined') {
-        fs.writeFile(logPath + today(), fileLog + "[SUCCESS] [" + datetime() + "] " + input + " <-> "  + data.toString() + "\n", callback());
+        fs.writeFile(logPath + today(), fileLog + "[SUCCESS] [" + datetime() + "] " + input + " <-> "  + JSON.stringify(data) + "\n", callback());
     } else {
-        fs.writeFile(logPath + today(),  fileLog + "[FAIL] [" + datetime() + "] " + input + "\n", callback());
+        fs.writeFile(logPath + today(), fileLog + "[FAILED ] [" + datetime() + "] " + input + "\n", callback());
     }
 }

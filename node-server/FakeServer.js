@@ -16,32 +16,13 @@ var today = function() {
 }
 
 
-var writeFile = function(reqHash, content) {
-    fs.writeFile(path + reqHash + ".source", content, function(err) {
-        if(err) {
-            return console.log(err);
-        }
-        console.log("The file was saved!");
-    });
-}
-
-var accessSpeFile = function(reqHash) {
-    try {
-        fs.accessSync(path + reqHash + ".result");
-            console.log("yes");
-            return true;
-        } catch(e) {
-            console.log("no");
-            return false;
-        }
-}
-
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
     extended: true
 }));
 app.post('/log', function(req, res) {
 	console.log(req.body.data);
+    res.send("{\"data\":\"Voici le numero de telephone d'orange\"}");
 });
 
 app.listen(1234, function () {
