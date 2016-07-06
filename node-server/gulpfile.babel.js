@@ -7,6 +7,7 @@ import jshint from 'gulp-jshint';
 gulp.task('jscs', function() {
   return gulp.src(['./index.js'])
     .pipe(jscs())
+    .pipe(jscs.reporter())
     .pipe(jscs.reporter('fail'));
 });
 
