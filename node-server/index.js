@@ -2,45 +2,45 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var fs = require('fs');
 var app = express();
-var path = "/Users/bastienbotella/web_docs/NLP/nlp-intent-toolkit/fds/";
-var logPath = "/Users/bastienbotella/web_docs/NLP/nlp-intent-toolkit/node-server/log/";
+var path = '/Users/bastienbotella/web_docs/NLP/nlp-intent-toolkit/fds/';
+var logPath = '/Users/bastienbotella/web_docs/NLP/nlp-intent-toolkit/node-server/log/';
 
 var today = function() {
     var today = new Date();
     var dd = today.getDate();
-    var mm = today.getMonth()+1; //January is 0!
+    var mm = today.getMonth() + 1; //January is 0!
     var yyyy = today.getFullYear();
     return mm + '-' + dd + '-' + yyyy;
-}
-
+};
 
 var writeFile = function(reqHash, content) {
-    fs.writeFile(path + reqHash + ".source", content, function(err) {
-        if(err) {
+    fs.writeFile(path + reqHash + '.source', content, function(err) {
+        if (err) {
             return console.log(err);
         }
-        console.log("The file was saved!");
+        console.log('The file was saved!');
     });
-}
+};
 
 var accessSpeFile = function(reqHash) {
     try {
-        fs.accessSync(path + reqHash + ".result");
-            console.log("yes");
-            return true;
-        } catch(e) {
-            console.log("no");
-            return false;
-        }
-}
+        fs.accessSync(path + reqHash + '.result');
+        console.log('yes');
+        return true;
+    } catch (e) {
+        console.log('no');
+        return false;
+    }
+};
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
     extended: true
 }));
+
 app.post('/', function(req, res) {
-    if (!req.body.enquiry || req.body.enquiry == "") {
-        return res.send("{status: false, error: Missing text field.}");
+    if (!req.body.enquiry || req.body.enquiry === '') {
+        return res.send('{status: false, error: Missing text field.}');
     } else {
         console.log(req.body.enquiry);
     }
@@ -49,29 +49,28 @@ app.post('/', function(req, res) {
     var interval = setInterval(function() {
         if (accessSpeFile(reqHash) === true) {
             try {
-                var data = fs.readFileSync(path + reqHash + ".result");
+                var data = fs.readFileSync(path + reqHash + '.result');
                 try {
                     var fileLog = fs.readFileSync(logPath + today());
-                } catch(e) {
+                } catch (e) {
                     var fileLog = '';
                 }
                 try {
-                    fs.unlinkSync(path + reqHash + ".result");
-                } catch(e) {
+                    fs.unlinkSync(path + reqHash + '.result');
+                } catch (e) {
                     console.log(e);
                 }
                 console.log(data.toString());
-                fs.writeFile(logPath + today(), fileLog.toString
-                () + "{in: '" + req.body.enquiry + "', out: " + data.toString() + "},",
+                fs.writeFile(logPath + today(), fileLog.toString() + '{in: \'' + req.body.enquiry + '\', out: ' + data.toString() + '},',
                 function(err) {
-                    if(err) {
+                    if (err) {
                         return console.log(err);
                     }
-                    console.log("Log saved!");
+                    console.log('Log saved!');
                 });
-                res.send("{status: true, data: " + data + "}");
+                res.send('{status: true, data: ' + data + '}');
                 clearInterval(interval);
-            } catch(e) {
+            } catch (e) {
                 console.log(e);
             }
         }
@@ -80,5 +79,5 @@ app.post('/', function(req, res) {
 });
 
 app.listen(3000, function () {
-  console.log('Example app listening on port 3000!');
+    console.log('Example app listening on port 3000!');
 });
