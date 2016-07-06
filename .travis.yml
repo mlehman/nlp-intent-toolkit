@@ -7,9 +7,11 @@ cache:
             - node-server/node_modules
 
 before_script:
-    - git clone git://github.com/SQweb-team/SQweb-Coding-Style.git ~/build/SQweb-team/SQweb-Coding-Style
+    - git clone git://github.com/SQweb-team/SQweb-Coding-Style.git ~/build/SQweb-Coding-Style
     - cd node-server && npm install
-    - cp ~/build/SQweb-team/SQweb-Coding-Style/js/* ./
+    - wget https://raw.githubusercontent.com/SQweb-team/SQweb-Coding-Style/master/js/.jscsrc
+    - wget https://raw.githubusercontent.com/SQweb-team/SQweb-Coding-Style/master/js/.jshintrc
+    - ls -lR
 
 script:
     - gulp
