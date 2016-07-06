@@ -71,17 +71,20 @@ app.post('/', function(req, res) {
                 } catch(e) {
                     console.log(e);
                 }
-                console.log(data.toString());
-                request.post('http://localhost:1234/log', {
-                  form: {
-                    data: data
-                  }
-                }, function(err, res) {
-                  console.log(err, res);
-                });
-                console.log(data);
-                logger(source, fileLog.toString());
-                res.send("{status: true, data: " + data + "}");
+                if (JSON.parse(data).find == false) {
+                    res.send("{status: false, data: 'Je ne comprend pas.' }");
+                } else {
+                    console.log(data.toString());
+                    request.post('http://localhost:1234/log', {
+                      form: {
+                        data: data
+                      }
+                    }, function(err, res) {
+                      console.log(err, res);
+                    });
+                    res.send("{status: true, data: " + data + "}");
+                }
+                logger(source, fileLog.toString(), JSON.parse(data.toString()));
                 clearInterval(interval);
             } catch(e) {
                 console.log(e);
@@ -111,9 +114,9 @@ function logger(input, fileLog, data) {
             }
             console.log("Log saved!");
         };
-    // if (response.toString().localeCompare('')) {
-        fs.writeFile(logPath + today(),  fileLog + "[FAIL] [" + datetime() + "]" + input + "\n", callback());
-    // } else {
-        fs.writeFile(logPath + today(), fileLog + "[SUCCESS] [" + datetime() + "] " + input + " <-> "  + "\n", callback());
-    // }
+    if (typeof data.intent != 'undefined') {
+        fs.writeFile(logPath + today(), fileLog + "[SUCCESS] [" + datetime() + "] " + input + " <-> "  + data.toString() + "\n", callback());
+    } else {
+        fs.writeFile(logPath + today(),  fileLog + "[FAIL] [" + datetime() + "] " + input + "\n", callback());
+    }
 }

@@ -160,17 +160,20 @@ public class IntentTrainer {
 				System.out.println(iteralol);
 				double[] outcome = categorizer.categorize(s);
 				String finalResult;
-				finalResult = "{action:" + categorizer.getBestCategory(outcome) + " },args:{";
-
-				String[] tokens = WhitespaceTokenizer.INSTANCE.tokenize(s);
-				for (NameFinderME nameFinderME : nameFinderMEs) {
-					Span[] spans = nameFinderME.find(tokens);
-					String[] names = Span.spansToStrings(spans, tokens);
-					for (int i = 0; i < spans.length; i++) {
-						finalResult += spans[i].getType() + ":" + names[i] + " ";
+				if (categorizer.getBestCategory(outcome).regionMatches(0, "bow", 0, 3) == false) {
+					finalResult = "{\"intent\":{\"action\":\"" + categorizer.getBestCategory(outcome) + "\" },\"args\":{";
+					String[] tokens = WhitespaceTokenizer.INSTANCE.tokenize(s);
+					for (NameFinderME nameFinderME : nameFinderMEs) {
+						Span[] spans = nameFinderME.find(tokens);
+						String[] names = Span.spansToStrings(spans, tokens);
+						for (int i = 0; i < spans.length; i++) {
+							finalResult += "\"" + spans[i].getType() + "\":\"" + names[i] + "\" ";
+						}
 					}
+					finalResult += "}}";
+				} else {
+					finalResult = "{\"find\": false}";
 				}
-				finalResult += "}";
 				System.out.println(">");
 				String[] fullFileName = IntentTrainer.currentFile.split("\\.");
 				System.out.println(IntentTrainer.currentFile);
