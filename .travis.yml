@@ -1,6 +1,11 @@
-nguage: node_js
+language: node_js
 node_js:
   - "6"
 
+cache:
+    directories:
+            - node-server/node_modules
+
 before_script:
     - cd node-server && npm install
+
