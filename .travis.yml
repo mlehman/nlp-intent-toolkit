@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+  - "6"
+
+cache:
+    directories:
+            - node-server/node_modules
+
+before_script:
+    - cd node-server && npm install
+    - wget https://raw.githubusercontent.com/SQweb-team/SQweb-Coding-Style/master/js/.jscsrc
+    - wget https://raw.githubusercontent.com/SQweb-team/SQweb-Coding-Style/master/js/.jshintrc
+
+script:
+    - gulp jshint
+    - gulp jscs
+    - snyk test
+
+notifications:
+    slack: nwork:BWqDT14LXxvuXtM8HydmDSD7
+    email: false
+
