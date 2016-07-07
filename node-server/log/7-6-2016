@@ -1,0 +1,91 @@
+[FAIL] [2016-07-06 09:47:09]Je voudrais le contact téléphonique d Orange
+[SUCCESS] [2016-07-06 09:50:56] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 09:56:21] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:05:29] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:06:26] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:07:12] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:07:44] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:09:33] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:29:06] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:30:00] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:30:29] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:35:56] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:36:33] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:36:56] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:44:14] Je voudrais le contact téléphonique d Orange <-> 
+[FAIL] [2016-07-06 10:46:10]Je voudrais le contact téléphonique d Orange
+[FAIL] [2016-07-06 10:46:42]Je voudrais le contact téléphonique d Orange
+[FAIL] [2016-07-06 10:47:48]Je voudrais le contact téléphonique d Orange
+[SUCCESS] [2016-07-06 10:47:54] Je voudrais le contact téléphonique d Orange <-> 
+[SUCCESS] [2016-07-06 10:48:07] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:09:31] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:09:59] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:02] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:03] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:04] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:05] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:06] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:07] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:08] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:10:53] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:14:11] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[SUCCESS] [2016-07-06 11:15:50] Je voudrais le contact télsdjlskjfksue d Orange <-> 
+[FAIL] [2016-07-06 11:44:23]asdfghjklqwertyuio
+[FAIL] [2016-07-06 11:44:50]asdfghjklqwertyuio
+[FAIL] [2016-07-06 11:46:17] asdfghjklqwertyuio
+[SUCCESS] [2016-07-06 11:46:56] Je voudrais le de orange <-> [object Object]
+[SUCCESS] [2016-07-06 11:47:36] Je voudrais le de orange <-> [object Object]
+[FAIL] [2016-07-06 11:48:03] sdfghjklkhgyrdtfgjkg
+[FAIL] [2016-07-06 12:01:51] asdfghjklqwertyuio
+[SUCCESS] [2016-07-06 12:02:03] Je voudrais le de orange <-> [object Object]
+[SUCCESS] [2016-07-06 12:11:36] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:11:39] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[FAIL] [2016-07-06 12:11:51] qwertyuioiytsafjkj
+[SUCCESS] [2016-07-06 12:15:48] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:19:05] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:20:35] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:20:46] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:26:01] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:26:57] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:29:18] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:29:36] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:30:48] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:31:01] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:33:10] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:33:27] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:33:59] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:34:12] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:34:52] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:35:09] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:39:29] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 12:42:32] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:46:59] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:47:44] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:50:25] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:58:11] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:02:33] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:02:36] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:17:25] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:24:04] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:25:15] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:25:46] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:27:18] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:52:48] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:54:56] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:55:21] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:12:47] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:13:38] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:25:09] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:26:07] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:27:14] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:28:08] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:29:40] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:30:19] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:30:44] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:30:58] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"sfr"}}
+[SUCCESS] [2016-07-06 16:31:44] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"sfr"}}
+[SUCCESS] [2016-07-06 16:34:10] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-adresse"},"args":{"societe":"Je voudrais ladresse de sfr"}}
+[SUCCESS] [2016-07-06 16:45:53] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-adresse"},"args":{"societe":"Je voudrais ladresse de sfr"}}
+[SUCCESS] [2016-07-06 16:46:25] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
+[SUCCESS] [2016-07-06 17:19:12] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
+[SUCCESS] [2016-07-06 17:20:21] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
