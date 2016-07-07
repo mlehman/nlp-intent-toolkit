@@ -71,8 +71,8 @@ app.post('/', function(req, res) {
                 } catch(e) {
                     console.log(e);
                 }
-                if (JSON.parse(data).find == false) {
-                    res.send("{status: false, data: 'Je ne comprend pas.' }");
+                if (JSON.parse(data).found == false) {
+                    res.send("{status: false}");
                 } else {
                     var returnSentence;
                     console.log(data.toString());
@@ -87,7 +87,7 @@ app.post('/', function(req, res) {
                       res.send("{status: true, data: \"" + returnSentence + "\"}");
                     });
                 }
-                logger(source, fileLog.toString(), JSON.parse(data.toString()));
+                logger(source, fileLog.toString(), JSON.parse(data));
                 clearInterval(interval);
             } catch(e) {
                 console.log(e);
@@ -107,7 +107,7 @@ app.post('/result', function(req, res) {
 });
 
 app.listen(3000, function () {
-  console.log('Example app listening on port 3000!'.green);
+  console.log('NLP Server listening on port 3000!'.green);
 });
 
 function logger(input, fileLog, data) {

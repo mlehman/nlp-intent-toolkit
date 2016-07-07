@@ -1,0 +1,13 @@
+[SUCCESS] [2016-07-07 08:30:46] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
+[SUCCESS] [2016-07-07 09:07:33] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 09:47:23] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 09:55:27] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 09:56:13] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 09:57:24] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 09:58:14] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 10:01:59] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[FAILED ] [2016-07-07 10:02:26] asdfdghjmjohutyrteryghujigjfkhgfdrwgbbbbbbbcfffjnmmmmmmmcfd
+[SUCCESS] [2016-07-07 10:03:00] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-07 10:05:19] Je voudrai le telephone de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[FAILED ] [2016-07-07 10:07:08] asdfdghjmjohutyrteryghujigjfkhgfdrwgbbbbbbbcfffjnmmmmmmmcfd
+[FAILED ] [2016-07-07 10:50:06] asdfdghjmjohutyrteryghujigjfkhgfdrwgbbbbbbbcfffjnmmmmmmmcfd

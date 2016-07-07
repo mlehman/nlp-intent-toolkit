@@ -1,0 +1,170 @@
+il faut que je contacte <START:societe> Clinique de Champagne <END> 
+il faut que je contacte <START:societe> Vaissiere G et Fils <END> 
+il faut que je contacte <START:societe> Kronenbourg <END> 
+il faut que je contacte <START:societe> Tribillac <END> 
+il faut que je contacte <START:societe> Boucly <END> 
+il faut que je contacte <START:societe> Investir <END> 
+il faut que je contacte <START:societe> Marre Materiaux <END> 
+il faut que je contacte <START:societe> Lancome <END> 
+il faut que je contacte <START:societe> Seguy Yves <END> 
+il faut que je contacte <START:societe> My Beautiful Company <END> 
+il faut que je joigne <START:societe> Bonnans Emile <END> 
+il faut que je joigne <START:societe> Piquet Bernard et Line <END> 
+il faut que je joigne <START:societe> Logis Hôtel Le Vert Galant *** Adhérent <END> 
+il faut que je joigne <START:societe> Association Elan <END> 
+il faut que je joigne <START:societe> Marie-jeanne et Robert <END> 
+il faut que je joigne <START:societe> Clinique mutualiste <END> 
+il faut que je joigne <START:societe> credit social des fonctionnaires <END> 
+il faut que je joigne <START:societe> Résidence des dômes <END> 
+il faut que je joigne <START:societe> Camping Le Parc de la Bastide <END> 
+il faut que je joigne <START:societe> Peu Ragot (SCI) <END> 
+je veux contacter <START:societe> Lanat <END> 
+je veux contacter <START:societe> Louis Thierry Notaire Associe <END> 
+je veux contacter <START:societe> Essilor International <END> 
+je veux contacter <START:societe> Darty Prayssac <END> 
+je veux contacter <START:societe> Camping du Plateau des Chasses <END> 
+je veux contacter <START:societe> Pharmacie Mullot Puyeo <END> 
+je veux contacter <START:societe> Baillot Rene <END> 
+je veux contacter <START:societe> conseil general des bouches du rhone <END> 
+je veux contacter <START:societe> Melet Nadine Infirmiere Dom <END> 
+je veux contacter <START:societe> Proxiserve <END> 
+je veux joindre <START:societe> Diapason Music <END> 
+je veux joindre <START:societe> Au Fournil d'Alexis <END> 
+je veux joindre <START:societe> Mairie de Mas Des Cours <END> 
+je veux joindre <START:societe> Video S 2000 <END> 
+je veux joindre <START:societe> Trigui Fathi <END> 
+je veux joindre <START:societe> Castel Casse <END> 
+je veux joindre <START:societe> Cabinet de Dermatologie Des Docteurs Jean- <END> 
+je veux joindre <START:societe> Mairie de Moussoulens <END> 
+je veux joindre <START:societe> Grimaud Gerard <END> 
+je veux joindre <START:societe> Civiletti Francois <END> 
+je veux des renseignements sur <START:societe> Clastes Andree <END> 
+je veux des renseignements sur <START:societe> Tichadou Alain Pharmacien <END> 
+je veux des renseignements sur <START:societe> Air France Saphir <END> 
+je veux des renseignements sur <START:societe> Equipement <END> 
+je veux des renseignements sur <START:societe> Santévet <END> 
+je veux des renseignements sur <START:societe> Hortal Jean-louis Chirurg Dent <END> 
+je veux des renseignements sur <START:societe> Teraillon <END> 
+je veux des renseignements sur <START:societe> Hotel Restaurant la Gentilhommiere <END> 
+je veux des renseignements sur <START:societe> Bar Vigneron <END> 
+je veux des renseignements sur <START:societe> Orchestre Littoral <END> 
+comment contacter <START:societe> Corail <END> 
+comment contacter <START:societe> A B M <END> 
+comment contacter <START:societe> Groupe de Recherche et d'Animation Photogr <END> 
+comment contacter <START:societe> Gelis Francis <END> 
+comment contacter <START:societe> Besancenot Michel <END> 
+comment contacter <START:societe> Château d'Alteville <END> 
+comment contacter <START:societe> April <END> 
+comment contacter <START:societe> beeper <END> 
+comment contacter <START:societe> Sytadin <END> 
+comment contacter <START:societe> Rouch-tromeur Odile <END> 
+comment joindre <START:societe> Yves Rocher Nature Beaute Franch Indep <END> 
+comment joindre <START:societe> Le Surcouf <END> 
+comment joindre <START:societe> Jory Laurent <END> 
+comment joindre <START:societe> Culture Au Soleil <END> 
+comment joindre <START:societe> 3 A France <END> 
+comment joindre <START:societe> FCPE <END> 
+comment joindre <START:societe> TASSILIDECO <END> 
+comment joindre <START:societe> Cazanave Claude <END> 
+comment joindre <START:societe> Holiform <END> 
+comment joindre <START:societe> St Hubert 100pour100 Vegetal <END> 
+j aimerais contacter <START:societe> HOTEL WINDSOR (SAS) <END> 
+j aimerais contacter <START:societe> Colas Arnaud <END> 
+j aimerais contacter <START:societe> Poissonnerie Des Corbieres <END> 
+j aimerais contacter <START:societe> Le Chaudron Vert <END> 
+j aimerais contacter <START:societe> Perez Andre <END> 
+j aimerais contacter <START:societe> Rigoni Bruno <END> 
+j aimerais contacter <START:societe> Boyer Annick <END> 
+j aimerais contacter <START:societe> Communaute de Communes <END> 
+j aimerais contacter <START:societe> COPYSUD <END> 
+j aimerais contacter <START:societe> Cano Jean-marc <END> 
+j aimerais joindre <START:societe> Gaec de Saint Laurent <END> 
+j aimerais joindre <START:societe> Labadie Jean-louis <END> 
+j aimerais joindre <START:societe> Delacour Jean-claude <END> 
+j aimerais joindre <START:societe> geodis <END> 
+j aimerais joindre <START:societe> Cabinet de Pedicurie Podologie Mahoux et D <END> 
+j aimerais joindre <START:societe> Gleizes Helene <END> 
+j aimerais joindre <START:societe> Mistergooddeal Chilly-Mazarin <END> 
+j aimerais joindre <START:societe> Pignol Jean-rene <END> 
+j aimerais joindre <START:societe> Hamadene Mohamed <END> 
+j aimerais joindre <START:societe> Lacaze Andre <END> 
+je veux avoir quelqu un de chez <START:societe> Anpe - Assedic - Pole Emploi <END> 
+je veux avoir quelqu un de chez <START:societe> Hôtel Garonne <END> 
+je veux avoir quelqu un de chez <START:societe> Jousseaume Marie- Claire <END> 
+je veux avoir quelqu un de chez <START:societe> Gls Centrale Appel Suivi Colis <END> 
+je veux avoir quelqu un de chez <START:societe> Escamilla <END> 
+je veux avoir quelqu un de chez <START:societe> Domaine Riviole Haut <END> 
+je veux avoir quelqu un de chez <START:societe> Generali Ellipse Assurances Agents généraux <END> 
+je veux avoir quelqu un de chez <START:societe> Chaubet Marielle et Nadine <END> 
+je veux avoir quelqu un de chez <START:societe> Galaup Vincent <END> 
+je veux avoir quelqu un de chez <START:societe> Yves Rocher <END> 
+je veux avoir quelqu un de <START:societe> Restaurant Le Chene Vert <END> 
+je veux avoir quelqu un de <START:societe> Cabinet Guedon- Bernard Expert Assurance <END> 
+je veux avoir quelqu un de <START:societe> Acotradi <END> 
+je veux avoir quelqu un de <START:societe> Hôtel de Neuve <END> 
+je veux avoir quelqu un de <START:societe> Scheyer Christiane <END> 
+je veux avoir quelqu un de <START:societe> Le Magnac <END> 
+je veux avoir quelqu un de <START:societe> Service Departemental d'Incendies et de Se <END> 
+je veux avoir quelqu un de <START:societe> Lasfer Belaid <END> 
+je veux avoir quelqu un de <START:societe> primagaz <END> 
+je veux avoir quelqu un de <START:societe> Gan Assurances Stefanov Christophe Agent général <END> 
+dis moi comment contacter <START:societe> Camping les Tamaris <END> 
+dis moi comment contacter <START:societe> Sogorb Jean-claude Artisan Macon <END> 
+dis moi comment contacter <START:societe> Acadia Résid'Hôtel <END> 
+dis moi comment contacter <START:societe> Hôtel Rohan <END> 
+dis moi comment contacter <START:societe> Mairie de Villerouge Termenes <END> 
+dis moi comment contacter <START:societe> Davis Clarel Medecin <END> 
+dis moi comment contacter <START:societe> Laurin Daniel <END> 
+dis moi comment contacter <START:societe> Compagnon Thomas <END> 
+dis moi comment contacter <START:societe> Bocacz <END> 
+dis moi comment contacter <START:societe> Bois Guillaume <END> 
+dis moi comment joindre <START:societe> La Grande Brasserie <END> 
+dis moi comment joindre <START:societe> Association Des Soins Palliatifs Dans l'Au <END> 
+dis moi comment joindre <START:societe> flying blue <END> 
+dis moi comment joindre <START:societe> Valoris Conseils <END> 
+dis moi comment joindre <START:societe> Nataxis financement <END> 
+dis moi comment joindre <START:societe> Au Mimosa <END> 
+dis moi comment joindre <START:societe> Petit Casino <END> 
+dis moi comment joindre <START:societe> Domaine de la Ferrandiere <END> 
+dis moi comment joindre <START:societe> Andrieu Marc <END> 
+dis moi comment joindre <START:societe> Domaine de la Peyrouse <END> 
+je cherche des infos sur <START:societe> Monsanto Sas <END> 
+je cherche des infos sur <START:societe> Agri 2b <END> 
+je cherche des infos sur <START:societe> Da Mimmo <END> 
+je cherche des infos sur <START:societe> De L Espoir (SARL) <END> 
+je cherche des infos sur <START:societe> Ecole Privee Obis Etpeso <END> 
+je cherche des infos sur <START:societe> Cca Nouvelle Technologie <END> 
+je cherche des infos sur <START:societe> Office Funeraire et Crematiste <END> 
+je cherche des infos sur <START:societe> Inforcar <END> 
+je cherche des infos sur <START:societe> hoptal privé ste marie <END> 
+je cherche des infos sur <START:societe> Marty Eric <END> 
+renseigne moi sur <START:societe> Le Tire Bouchon <END> 
+renseigne moi sur <START:societe> Roques Claude Medecine Gener <END> 
+renseigne moi sur <START:societe> Restaurant Le Cabestan <END> 
+renseigne moi sur <START:societe> Reneaud Valerie <END> 
+renseigne moi sur <START:societe> Auberge du Vieux Puits <END> 
+renseigne moi sur <START:societe> ALLIANZ VIE <END> 
+renseigne moi sur <START:societe> Boite À  Coquilles <END> 
+renseigne moi sur <START:societe> Zhang Quan Bin <END> 
+renseigne moi sur <START:societe> Galaup Fabrice <END> 
+renseigne moi sur <START:societe> Etablissements Chouchan <END> 
+parle moi de <START:societe> Mutuelle Intégrance <END> 
+parle moi de <START:societe> Maintenance Thermique <END> 
+parle moi de <START:societe> Quickly Pizza <END> 
+parle moi de <START:societe> Jaudon Benoit Medecin <END> 
+parle moi de <START:societe> Tardivon Francoise <END> 
+parle moi de <START:societe> Centre national du Chèque emploi service universel <END> 
+parle moi de <START:societe> Pro Sol <END> 
+parle moi de <START:societe> Herail Artigouha Marie-helene <END> 
+parle moi de <START:societe> Bellotti Maurice <END> 
+parle moi de <START:societe> Auberge La Belle Etoile (Hôtel Restaurant) <END> 
+donne moi des informations sur <START:societe> Domie Coiffure <END>  
+donne moi des informations sur <START:societe> Campanile Saint Denis <END>  
+donne moi des informations sur <START:societe> Coralline <END>  
+donne moi des informations sur <START:societe> Chez Felix <END>  
+donne moi des informations sur <START:societe> Hôtel de l'Ill <END>  
+donne moi des informations sur <START:societe> Ministere des Finances <END>  
+donne moi des informations sur <START:societe> Relais d'Aguilar <END>  
+donne moi des informations sur <START:societe> Budget <END>  
+donne moi des informations sur <START:societe> Frileux Jean-marie <END>  
+donne moi des informations sur <START:societe> Garage Varilla <END>  

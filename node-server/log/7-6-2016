@@ -59,3 +59,33 @@
 [SUCCESS] [2016-07-06 12:35:09] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
 [SUCCESS] [2016-07-06 12:39:29] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
 [SUCCESS] [2016-07-06 12:42:32] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:46:59] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:47:44] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:50:25] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 14:58:11] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:02:33] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:02:36] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:17:25] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:24:04] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:25:15] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:25:46] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:27:18] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:52:48] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:54:56] Je voudrais le de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 15:55:21] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:12:47] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:13:38] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:25:09] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:26:07] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:27:14] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:28:08] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:29:40] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:30:19] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:30:44] Je voudrais ladresse de orange <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"orange"}}
+[SUCCESS] [2016-07-06 16:30:58] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"sfr"}}
+[SUCCESS] [2016-07-06 16:31:44] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-numeros"},"args":{"societe":"sfr"}}
+[SUCCESS] [2016-07-06 16:34:10] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-adresse"},"args":{"societe":"Je voudrais ladresse de sfr"}}
+[SUCCESS] [2016-07-06 16:45:53] Je voudrais ladresse de sfr <-> {"intent":{"action":"trouver-adresse"},"args":{"societe":"Je voudrais ladresse de sfr"}}
+[SUCCESS] [2016-07-06 16:46:25] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
+[SUCCESS] [2016-07-06 17:19:12] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
+[SUCCESS] [2016-07-06 17:20:21] hgdsagkfhkdsgjkhfdjk <-> {"intent":{"action":"contact-general"},"args":{"societe":"hgdsagkfhkdsgjkhfdjk"}}
