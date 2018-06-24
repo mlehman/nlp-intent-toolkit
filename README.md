@@ -24,7 +24,7 @@ Each training file contains one example per line with any possible arguments sur
 ```
 file: five-day-forecast.txt
 ...
-how does the weather look for this Thursday in <START:city> Boston <END>
+how does the weather look for this Thursday in <START:city> Boston <END> ?
 is it going to snow this week in <START:city> Chicago <END>
 show me the forecast for <START:city> Denver <END>
 ...
