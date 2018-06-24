@@ -8,7 +8,7 @@ Recognizing intents with slots using OpenNLP for applications (such as bots usin
 { action: 'stock-price', args: { company: 'General Motors' } }
 ```
 
-The example system uses [document categorization](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.doccat) to determine the intent (command) and [entity recognition](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.namefind) to determine the slots (arguments) of a the natural language text. 
+The example system uses [document categorization](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.doccat) to determine the intent (command) and [entity recognition](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.namefind) to determine the slots (arguments) of the natural language text input. 
 
 The training system uses a directory containing separate files for each possible action, in this case the actions in a fictitious weather application:
 
