@@ -4,7 +4,6 @@ import opennlp.tools.doccat.DocumentSample;
 import opennlp.tools.tokenize.WhitespaceTokenizer;
 import opennlp.tools.util.ObjectStream;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.Vector;
 
@@ -19,7 +18,6 @@ public class IntentDocumentSampleStream implements ObjectStream<DocumentSample> 
         this.stream = stream;
     }
 
-    @Override
     public DocumentSample read() throws IOException {
         String sampleString = stream.read();
 
@@ -31,15 +29,11 @@ public class IntentDocumentSampleStream implements ObjectStream<DocumentSample> 
             //remove entities
             Vector<String> vector = new Vector<String>(tokens.length);
             boolean skip = false;
-            for(String token : tokens) {
-                if(token.startsWith("<")) {
-                    skip = !skip;
-                } else if(!skip) {
-                    System.out.print(token + " ");
+            for (String token : tokens) {
+                if (!token.startsWith("<")) {
                     vector.add(token);
                 }
             }
-            System.out.println();
 
             tokens = new String[vector.size()];
             vector.copyInto(tokens);
@@ -58,12 +52,10 @@ public class IntentDocumentSampleStream implements ObjectStream<DocumentSample> 
         }
     }
 
-    @Override
     public void reset() throws IOException, UnsupportedOperationException {
         stream.reset();
     }
 
-    @Override
     public void close() throws IOException {
         stream.close();
     }

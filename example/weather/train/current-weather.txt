@@ -5,9 +5,10 @@ show me current conditions
 how hot is it
 how cold is it
 is it snowing
-is it raining
+is it raining in <START:city> Miami <END>
 is it sunny
 is it cloudy
+is it hot in <START:city> Denver <END>
 is it raining in <START:city> Detroit <END>
 how is <START:city> Denver <END> today
 is <START:city> Chicago <END> cold
@@ -15,16 +16,16 @@ is <START:city> Miami <END> hot
 show me the current conditions
 what's the temperature in <START:city> new york <END>
 show me current conditions for <START:city> san francisco <END>
-what's the weather look like in <START:city> Chicago <END>
+what's the weather look like in <START:city> Chicago <END> ?
 is it raining in <START:city> Seattle <END>
 what's the temperature in <START:city> New York <END>
-show me current conditions for <START:city> Boston <END>
+show me current conditions for <START:city> Boston <END> ?
 how hot is it in <START:city> Miami <END>
-how cold is it <START:city> Anchorage <END>
+how cold is it <START:city> Anchorage <END> ?
 is it snowing in <START:city> Denver <END>
 show me the current conditions for <START:city> Detroit <END>
 show me current conditions for <START:city> boston <END>
 how hot is it in <START:city> miami <END>
 how cold is it <START:city> anchorage <END>
-is it snowing in <START:city> denver <END>
+is it snowing in <START:city> denver <END> ?
 show me the current conditions for <START:city> detroit <END>
