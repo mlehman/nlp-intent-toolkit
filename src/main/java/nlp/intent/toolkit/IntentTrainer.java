@@ -82,17 +82,18 @@ public class IntentTrainer {
 
         while ((s = System.console().readLine()) != null) {
             double[] outcome = categorizer.categorize(tokenizer.tokenize(s));
-            System.out.print("action=" + categorizer.getBestCategory(outcome) + " args={ ");
+            System.out.print("{ action: '" + categorizer.getBestCategory(outcome) + "', args: { ");
 
             String[] tokens = tokenizer.tokenize(s);
             for (NameFinderME nameFinderME : nameFinderMEs) {
                 Span[] spans = nameFinderME.find(tokens);
                 String[] names = Span.spansToStrings(spans, tokens);
                 for (int i = 0; i < spans.length; i++) {
-                    System.out.print(spans[i].getType() + "=" + names[i] + " ");
+                    if(i > 0) { System.out.print(", "); }
+                    System.out.print(spans[i].getType() + ": '" + names[i] + "' ");
                 }
             }
-            System.out.println("}");
+            System.out.println("} }");
             System.out.print(">");
 
         }

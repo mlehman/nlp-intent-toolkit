@@ -1,9 +1,16 @@
 nlp-intent-toolkit
 ==================
 
-Recognizing intents with slots using OpenNLP.
+Recognizing intents with slots using OpenNLP for applications (such as bots using chat, IM, speech-to-text) to convert natural language into structured commands with arguments.
 
-This is an example of using OpenNLP to train a system to accept natural language input, particularly via a speech-to-text source, and return a recognized action with arguments. The system uses [document categorization](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.doccat) to determine the action for inputs and [entity recognition](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.namefind) to determine the arguments. The training system requires a directory containing separate files for each possible action, in this case the actions in a fictitious weather application:
+```
+> What's the current stock price of General Motors?
+{ action: 'stock-price', args: { company: 'General Motors' } }
+```
+
+The example system uses [document categorization](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.doccat) to determine the intent (command) and [entity recognition](https://opennlp.apache.org/documentation/1.5.3/manual/opennlp.html#tools.namefind) to determine the slots (arguments) of a the natural language text. 
+
+The training system uses a directory containing separate files for each possible action, in this case the actions in a fictitious weather application:
 
 ```
 - example/weather/train
@@ -34,20 +41,25 @@ $ mvn clean compile exec:java  -Dexec.args="example/weather/train city"
 Training complete. Ready.
 
 >show me the weather for chicago
-action=current-weather args={ city=chicago }
+{ action: 'current-weather', args: { city: 'chicago' } }
 
->will it rain tonight
-action=hourly-forecast args={ }
+>will it rain tonight?
+{ action: 'hourly-forecast', args: { } }
 
 >how does it look in seattle
-action=hourly-forecast args={ }
+{ action: 'hourly-forecast', args: { city: 'seattle' } }
 
->what are the conditions in new york
-action=current-weather args={ city=new york }
+>what are the conditions in new york?
+{ action: 'current-weather', args: { city: 'new york' } }
 
 >how does this weekend look in boston
-action=five-day-forecast args={ city=boston }
+{ action: 'five-day-forecast', args: { city: 'boston' } }
 
 >give me the five day forecast
-action=five-day-forecast args={ }
+{ action: 'five-day-forecast', args: { } }
 ```
+
+## Copyright and License
+
+The source code provided by this repository is free and unencumbered to be copied or modified for any purpose, commercial or non-commercial.
+The full license text is provided in the LICENSE file accompanying this repository.
